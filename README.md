@@ -23,11 +23,11 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
 
 - **Linear Regression – Practice & Implementation**  
   Built and evaluated a regression model to predict coffee shop sales, analyzed feature impact, validated assumptions, and measured performance using appropriate regression metrics.  
-  Link: [Linear Regression – Practice & Implementation](https://github.com/samhithaharini/coffee-sales-prediction.git)
+  Link: [Coffee Sales Prediction](https://github.com/samhithaharini/coffee-sales-prediction.git)
 
 - **Analyzing Student Performance Using Linear Regression (Streamlit Deployment)**  
   Developed a predictive model to estimate student academic performance and deployed it as an interactive Streamlit web application for real-time predictions.  
-  Link: [Student Performance Analysis – Streamlit](https://github.com/samhithaharini/student-performance-predictor.git)
+  Link: [Student Performance Analysis – Streamlit Deployment](https://github.com/samhithaharini/student-performance-predictor.git)
 
 ---
 
@@ -35,27 +35,27 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
 
 - **Logistic Regression**  
   Implemented a multi-class classification model to predict iris species based on flower measurements and evaluated performance using standard classification metrics.  
-  Link: [Logistic Regression](https://github.com/samhithaharini/iris-species-prediction.git)
+  Link: [Iris Species Prediction - Streamlit Deployment](https://github.com/samhithaharini/iris-species-prediction.git)
 
 - **K-Nearest Neighbors (KNN)**  
   Applied distance-based classification to predict cancer diagnosis outcomes by analyzing similarities between data points in feature space.  
-  Link: [K-Nearest Neighbors](https://github.com/samhithaharini/cancer-prediction-system.git)
+  Link: [Cancer Prediction System - Streamlit Deployment](https://github.com/samhithaharini/cancer-prediction-system.git)
 
 - **Naive Bayes**  
   Built a probabilistic classifier to predict mushroom edibility using Bayesian principles and conditional probability assumptions.  
-  Link: [Naive Bayes](https://github.com/samhithaharini/mushroom-prediction.git)
+  Link: [Mushroom Prediction - Streamlit Deployment](https://github.com/samhithaharini/mushroom-prediction.git)
 
 - **Decision Tree**  
   Designed a tree-based model for fraud detection, focusing on interpretability, decision rules, and comparison of splitting criteria.  
-  Link: [Decision Tree](https://github.com/samhithaharini/Fraud-Detection.git)
+  Link: [Fraud Detection](https://github.com/samhithaharini/Fraud-Detection.git)
 
 - **Random Forest**  
   Developed an ensemble-based classification model to predict survival outcomes on the Titanic dataset while analyzing feature importance.  
-  Link: [Random Forest](https://github.com/samhithaharini/titanic-survival-prediction.git)
+  Link: [Titanic Survival Prediction - Streamlit Deployment](https://github.com/samhithaharini/titanic-survival-prediction.git)
 
 - **Support Vector Machine (SVM)**  
   Implemented an SVM classifier for breast cancer prediction, leveraging margin maximization and kernel-based decision boundaries.  
-  Link: [Support Vector Machine](https://github.com/samhithaharini/breast-cancer-prediction.git)
+  Link: [Breast Cancer Prediction - Streamlit Deployment](https://github.com/samhithaharini/breast-cancer-prediction.git)
 
 ---
 
@@ -63,15 +63,15 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
 
 - **Ada Boosting**  
   Demonstrates how boosting improves weak learners by iteratively focusing on misclassified samples to enhance overall model accuracy.  
-  Link: *(To be added)*
+  
 
 - **Gradient Boosting**  
   Explores sequential ensemble learning where models are trained to correct residual errors from previous iterations.  
-  Link: *(To be added)*
+  
 
 - **XG Boosting**  
   Focuses on high-performance gradient boosting with regularization and optimized computation for large-scale datasets.  
-  Link: *(To be added)*
+  
 
 ---
 
@@ -81,21 +81,21 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
 
 - **K-Means Clustering**  
   Applied clustering techniques to segment employees into meaningful groups based on behavioral and performance-related features.  
-  Link: [K-Means](https://github.com/samhithaharini/employee-segmentation.git)
+  Link: [Employee Segmentation - Streamlit Deployment](https://github.com/samhithaharini/employee-segmentation.git)
 
 - **Hierarchical Clustering**  
   Explores agglomerative and divisive clustering approaches using dendrograms to identify natural data groupings.  
-  Link: *(To be added)*
+  
 
 - **DBSCAN**  
   Implemented density-based clustering to identify arbitrarily shaped clusters and handle noise in non-linear datasets.  
-  Link: [DBSCAN](https://github.com/samhithaharini/dbscan-clustering-on-makemoons.git)
+  Link: [Clustering on Make Moon](https://github.com/samhithaharini/dbscan-clustering-on-makemoons.git)
 
 #### Dimensionality Reduction
 
 - **Principal Component Analysis (PCA)**  
   Demonstrates feature reduction techniques to reduce dimensionality while preserving maximum variance in the data.  
-  Link: *(To be added)*
+  
 
 ---
 
@@ -103,15 +103,15 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
 
 - **Cross Validation (K-Fold)**  
   Applies K-Fold cross-validation to ensure robust and unbiased evaluation of machine learning models.  
-  Link: *(To be added)*
+ 
 
 - **Hyperparameter Tuning**  
   Explores systematic hyperparameter optimization using GridSearchCV and RandomizedSearchCV to improve model performance.  
-  Link: *(To be added)*
+  
 
 - **Feature Selection**  
   Demonstrates filter, wrapper, and embedded feature selection techniques to enhance model efficiency and interpretability.  
-  Link: *(To be added)*
+ 
 
 ---
 
@@ -119,7 +119,7 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
 
 - **Unique Capstone Project**  
   A comprehensive end-to-end machine learning project covering problem definition, EDA, feature engineering, model building, optimization, and deployment.  
-  Link: *(To be added)*
+  
 
 ---
 
