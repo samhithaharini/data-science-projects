@@ -23,7 +23,7 @@ The portfolio covers **EDA, Supervised Learning, Unsupervised Learning, Model Ev
 
 - **Linear Regression – Practice & Implementation**  
   Model assumptions, training, evaluation metrics  
-  Link: [Linear Regression – Practice & Implementation]()
+  Link: [Linear Regression – Practice & Implementation](https://github.com/samhithaharini/DATA-SCIENCE-COFFEE-SALES-PREDICTION-.git)
 
 - **Analyzing Student Performance Using Linear Regression (Streamlit Deployment)**  
   Real-world regression problem with model deployment  
@@ -47,7 +47,7 @@ The portfolio covers **EDA, Supervised Learning, Unsupervised Learning, Model Ev
 
 - **Decision Tree**  
   Tree-based learning using Gini Index and Entropy  
-  Link: [Decision Tree]()
+  Link: [Decision Tree](https://github.com/samhithaharini/Fraud-Detection.git)
 
 - **Random Forest**  
   Ensemble learning with feature importance  
