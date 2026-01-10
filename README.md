@@ -1,60 +1,145 @@
-# data-science-projects
+# Data Science & Machine Learning Portfolio
 
-📊 Data Science & Machine Learning Portfolio
+This repository serves as a **central portfolio index** for all my **Data Science and Machine Learning projects**.  
+Each project is hosted in its **own dedicated GitHub repository**, and this repo provides a single, organized view of my complete work.
 
-This repository serves as a central index of all my Data Science, Machine Learning, and Applied AI projects.
-Each project is maintained in its own dedicated GitHub repository and linked below for easy navigation.
+The portfolio covers **EDA, Supervised Learning, Unsupervised Learning, Model Evaluation, Optimization techniques, and an end-to-end Capstone Project**.
 
+---
 
-#🧠 Learning Path
+## Learning Path & Project Index
 
+---
 
-1️⃣ Data Analysis, EDA & Preprocessing
+### Exploratory Data Analysis & Preprocessing
 
-Topic	Description	Repository
-Exploratory Data Analysis	Data cleaning, visualization, feature understanding on real datasets	🔗 EDA and Preprocessing on Housing Dataset
-2️⃣ Regression Techniques
-Algorithm	Key Concepts	Repository
-Linear Regression	Model building, assumptions, evaluation	🔗 Linear Regression – Practice & Implementation
-Linear Regression (Applied)	Real-world regression + deployment	🔗 Analyzing Student Performance Using Linear Regression (Streamlit)
-3️⃣ Classification Algorithms
-Algorithm	Highlights	Repository
-Logistic Regression	Binary classification, metrics	🔗 Logistic Regression
-K-Nearest Neighbors (KNN)	Distance-based learning	🔗 K-Nearest Neighbors
-Naive Bayes	Probabilistic classification	🔗 Naive Bayes
-Decision Tree	Tree-based learning, entropy & gini	🔗 Decision Tree
-Random Forest	Ensemble learning, feature importance	🔗 Random Forest
-Support Vector Machine (SVM)	Margin maximization, kernels	🔗 Support Vector Machine
-4️⃣ Ensemble & Boosting Methods
-Technique	Focus	Repository
-AdaBoost	Weak learners → strong learner	🔗 Ada Boosting
-Gradient Boosting	Sequential optimization	🔗 Gradient Boosting
-XGBoost	High-performance boosting	🔗 XG Boosting
-5️⃣ Unsupervised Learning
-🔹 Clustering
-Algorithm	Use Case	Repository
-K-Means	Customer & data segmentation	🔗 K-Means
-Hierarchical Clustering	Dendrogram-based clustering	🔗 Hierarchical Clustering
-DBSCAN	Density-based clustering	🔗 DBSCAN
-🔹 Dimensionality Reduction
-Method	Purpose	Repository
-PCA (Principal Component Analysis)	Feature reduction & visualization	🔗 PCA
-6️⃣ Model Evaluation & Optimization
-Concept	Description	Repository
-Cross Validation	K-Fold model validation	🔗 Cross Validation (K-Fold)
-Hyperparameter Tuning	GridSearch & RandomizedSearch	🔗 Hyperparameter Tuning
-Feature Selection	Filter, Wrapper & Embedded methods	🔗 Feature Selection
-7️⃣ 🚀 Capstone Project
-Project	Description	Repository
-Unique Capstone Project	End-to-end ML pipeline: EDA → Modeling → Optimization → Deployment	🔗 Unique Capstone Project
-🛠️ Tools & Technologies
+- **EDA and Preprocessing on Housing Dataset**  
+  Data cleaning, feature engineering, visualization, and insight generation  
+  Link: [EDA and Preprocessing on Housing Dataset](https://github.com/samhithaharini/DATA-SCIENCE.git)
 
-Languages: Python
+---
 
-Libraries: NumPy, Pandas, Matplotlib, Seaborn
+### Regression Techniques
 
-ML: Scikit-learn, XGBoost
+- **Linear Regression – Practice & Implementation**  
+  Model assumptions, training, evaluation metrics  
+  Link: [Linear Regression – Practice & Implementation]()
 
-Deployment: Streamlit
+- **Analyzing Student Performance Using Linear Regression (Streamlit Deployment)**  
+  Real-world regression problem with model deployment  
+  Link: [Student Performance Analysis – Streamlit]()
 
-Concepts: EDA, Supervised & Unsupervised Learning, Model Optimization
+---
+
+### Classification Algorithms
+
+- **Logistic Regression**  
+  Binary classification and evaluation metrics  
+  Link: [Logistic Regression]()
+
+- **K-Nearest Neighbors (KNN)**  
+  Distance-based classification approach  
+  Link: [K-Nearest Neighbors]()
+
+- **Naive Bayes**  
+  Probabilistic classification using Bayes theorem  
+  Link: [Naive Bayes]()
+
+- **Decision Tree**  
+  Tree-based learning using Gini Index and Entropy  
+  Link: [Decision Tree]()
+
+- **Random Forest**  
+  Ensemble learning with feature importance  
+  Link: [Random Forest]()
+
+- **Support Vector Machine (SVM)**  
+  Margin maximization and kernel-based learning  
+  Link: [Support Vector Machine]()
+
+---
+
+### Ensemble & Boosting Techniques
+
+- **Ada Boosting**  
+  Boosting weak learners into a strong model  
+  Link: [Ada Boosting]()
+
+- **Gradient Boosting**  
+  Sequential learning with error minimization  
+  Link: [Gradient Boosting]()
+
+- **XG Boosting**  
+  Optimized gradient boosting for high-performance models  
+  Link: [XG Boosting]()
+
+---
+
+### Unsupervised Learning
+
+#### Clustering
+
+- **K-Means Clustering**  
+  Data and customer segmentation  
+  Link: [K-Means]()
+
+- **Hierarchical Clustering**  
+  Dendrogram-based clustering technique  
+  Link: [Hierarchical Clustering]()
+
+- **DBSCAN**  
+  Density-based clustering with noise handling  
+  Link: [DBSCAN]()
+
+#### Dimensionality Reduction
+
+- **Principal Component Analysis (PCA)**  
+  Feature reduction and data visualization  
+  Link: [PCA]()
+
+---
+
+### Model Evaluation & Optimization
+
+- **Cross Validation (K-Fold)**  
+  Reliable model performance evaluation  
+  Link: [Cross Validation (K-Fold)]()
+
+- **Hyperparameter Tuning**  
+  GridSearchCV and RandomizedSearchCV  
+  Link: [Hyperparameter Tuning]()
+
+- **Feature Selection**  
+  Filter, Wrapper, and Embedded methods  
+  Link: [Feature Selection]()
+
+---
+
+### Capstone Project
+
+- **Unique Capstone Project**  
+  Complete machine learning pipeline from EDA to deployment  
+  Link: [Unique Capstone Project]()
+
+---
+
+## Tools & Technologies
+
+- Programming Language: Python  
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn  
+- Machine Learning: Scikit-learn, XGBoost  
+- Deployment: Streamlit  
+
+---
+
+## Portfolio Highlights
+
+- Concept-driven implementations  
+- Real-world datasets  
+- Clean and readable code  
+- Practical machine learning workflows  
+- Deployment-ready projects  
+
+---
+
+Each linked repository includes detailed documentation, datasets, implementation, and results.
