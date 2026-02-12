@@ -46,8 +46,9 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
   Link: [Mushroom Prediction - Streamlit Deployment](https://github.com/samhithaharini/mushroom-prediction.git)
 
 - **Decision Tree**  
-  Designed a tree-based model for fraud detection, focusing on interpretability, decision rules, and comparison of splitting criteria.  
-  Link: [Fraud Detection](https://github.com/samhithaharini/Fraud-Detection.git)
+  Developed a decision tree classification model to predict loan approval outcomes using financial and credit-related attributes, highlighting feature importance and transparent decision rules.  
+  Link: [Loan Approval Prediction - Streamlit Deployment](https://github.com/samhithaharini/loan-approval-prediction.git)
+
 
 - **Random Forest**  
   Developed an ensemble-based classification model to predict survival outcomes on the Titanic dataset while analyzing feature importance.  
