@@ -47,7 +47,7 @@ The portfolio spans **data analysis, classical machine learning algorithms, unsu
 
 - **Decision Tree**  
   Developed a decision tree classification model to predict loan approval outcomes using financial and credit-related attributes, highlighting feature importance and transparent decision rules.  
-  Link: [Loan Approval Prediction - Streamlit Deployment](https://github.com/samhithaharini/loan-approval-prediction.git)
+  Link: [Loan Approval Prediction - Streamlit Deployment](https://github.com/samhithaharini/loan-approval-prediction-app.git)
 
 
 - **Random Forest**  
